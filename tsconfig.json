@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "lib": ["dom", "esnext"],
+    "strict": false,
+    "module": "esnext",
+    "moduleResolution": "node",
+    "jsx": "preserve"
+  }
+}
